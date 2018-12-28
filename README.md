@@ -1,5 +1,7 @@
 # MIPS-MultiCycle
 A Multi Cycle implementation of MIPS
+* [SingleCycle version](https://github.com/gsoosk/MIPS-SingleCycle)
+* [A SingleCycle version with PipeLine](https://github.com/gsoosk/MIPS-PipeLine)
 
 ## How it works ? 
 
